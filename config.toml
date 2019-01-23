@@ -1,0 +1,21 @@
+baseURL = "http://marcoruizv.com/"
+languageCode = "en-us"
+title = "Marco Ruiz"
+theme = "kiera"
+copyright = "Copyright &copy; 2019 - Marco Ruiz"
+canonifyurls = true
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Marco Ruiz"
+    github = "marcoruizv"
+    linkedin = "marcoruizv"
+    twitter = "marcoruizv"
+
+[params]
+    tagline = "contact@marcoruizv.com"
