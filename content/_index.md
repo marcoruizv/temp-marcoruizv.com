@@ -14,7 +14,7 @@ image: ""
 Welcome to my virtual lab! This is meant to be, first and foremost, a collection of memories for my older self. I hope this space also serves as an easy-to-share place for all things for family/friends. 
 
 If you're here on purpose, you know where to look. 
-If you're a recruiter, thank you for coming by. Chances are I'm not looking for a job right now. If you're curious anyway, LinkedIn is the best place to reach me.
+If you're a recruiter, thank you for coming by. I'm probably not looking for opportunities right now. If you're curious anyway, LinkedIn is the best place to reach me.
 If you're lost, what you'll find will probably be boring for you.
 
 Have a great day! 👋 😃
