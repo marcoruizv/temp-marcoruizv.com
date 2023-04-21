@@ -1,15 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rebuilding my website on Marco Ruiz</title>
-    <link>http://marcoruizv.com/</link>
-    <description>Recent content in Rebuilding my website on Marco Ruiz</description>
+    <title>¡Hola!</title>
+    <link>https://marcoruizv.com/</link>
+    <description>Recent content on ¡Hola!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2019 - Marco Ruiz</copyright>
-    
-	<atom:link href="http://marcoruizv.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://marcoruizv.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⚠️ 🚧 Please pardon the dust - renovations underway.</title>
+      <link>https://marcoruizv.com/about/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcoruizv.com/about/</guid>
+      <description>ETA ~ mid 2023.
+Hello! Welcome to my virtual lab! This is meant to be, first and foremost, a collection of memories for my older self. I hope this space also serves as an easy-to-share place for all things for family/friends.
+If you&amp;rsquo;re here on purpose, you know where to look. If you&amp;rsquo;re a recruiter, thank you for coming by. I&amp;rsquo;m probably not looking for opportunities right now. If you&amp;rsquo;re curious anyway, LinkedIn is the best place to reach me.</description>
+    </item>
     
   </channel>
 </rss>
